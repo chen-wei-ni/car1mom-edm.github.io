@@ -8,7 +8,7 @@
 @media screen and (min-width:1025px) {
 
 header {
-	background: url('../images/edm_01.jpg') no-repeat;
+	background: url('../images/edm_01.jpg') center no-repeat;
 	background-size:cover;
 	position:relative;
 	height:800px;
@@ -39,7 +39,7 @@ header {
 		display:none;
 	}
 .bg-brown {
-	background: url('../images/edm_02.jpg') no-repeat;
+	background: url('../images/edm_02.jpg') center no-repeat;
 	background-size:cover;
 	height:380px;
 	
